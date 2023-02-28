@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#container {
+    width: 80%;
+    /* border: 1px solid red; */
+    margin: 0px auto;
+    /* background-color: cyan;*/
+}
